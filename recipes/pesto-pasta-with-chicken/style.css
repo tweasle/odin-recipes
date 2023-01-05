@@ -5,6 +5,7 @@ body {
 .title {
   color: green;
   font-size: 40px;
+  text-align: center;
 }
 
 .h2 {
@@ -24,4 +25,9 @@ body {
 
 .font {
     font-family: Monaco, "Courier New", sans-serif;
+}
+
+#image {
+    width: 200px;
+    height: auto;
 }
