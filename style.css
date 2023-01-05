@@ -5,5 +5,13 @@ body {
 .list-item {
     background-color: black;
     color: green;
+}
+
+.title {
+    color: green;
+    background-color: black;
+}
+
+.font {
     font-family: Monaco, "Courier New", sans-serif;
 }
