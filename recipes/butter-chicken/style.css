@@ -5,4 +5,17 @@ body {
 * {
     color: green;
     font-family: Monaco, "Courier New", sans-serif;
+    font-size: 20px;
+}
+
+title {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+#source {
+    font-size: 16px;
 }
